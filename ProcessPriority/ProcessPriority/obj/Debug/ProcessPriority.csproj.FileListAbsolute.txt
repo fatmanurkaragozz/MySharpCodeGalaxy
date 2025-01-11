@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\bin\Debug\ProcessPriority.exe.config
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\bin\Debug\ProcessPriority.exe
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\bin\Debug\ProcessPriority.pdb
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\obj\Debug\ProcessPriority.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\obj\Debug\ProcessPriority.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\obj\Debug\ProcessPriority.exe
+C:\Users\myPC\source\repos\ProcessPriority\ProcessPriority\obj\Debug\ProcessPriority.pdb

@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\bin\Debug\TimeTraveler.exe.config
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\bin\Debug\TimeTraveler.exe
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\bin\Debug\TimeTraveler.pdb
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\obj\Debug\TimeTraveler.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\obj\Debug\TimeTraveler.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\obj\Debug\TimeTraveler.exe
+C:\Users\myPC\source\repos\TimeTraveler\TimeTraveler\obj\Debug\TimeTraveler.pdb

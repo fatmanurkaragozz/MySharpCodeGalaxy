@@ -1,0 +1,10 @@
+C:\Users\myPC\source\repos\Zarva\Zarva\obj\Debug\Zarva.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\Zarva\Zarva\obj\Debug\Zarva.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\Zarva\Zarva\bin\Debug\Zarva.exe.config
+C:\Users\myPC\source\repos\Zarva\Zarva\bin\Debug\Zarva.exe
+C:\Users\myPC\source\repos\Zarva\Zarva\bin\Debug\Zarva.pdb
+C:\Users\myPC\source\repos\Zarva\Zarva\bin\Debug\System.ValueTuple.dll
+C:\Users\myPC\source\repos\Zarva\Zarva\bin\Debug\System.ValueTuple.xml
+C:\Users\myPC\source\repos\Zarva\Zarva\obj\Debug\Zarva.csproj.CopyComplete
+C:\Users\myPC\source\repos\Zarva\Zarva\obj\Debug\Zarva.exe
+C:\Users\myPC\source\repos\Zarva\Zarva\obj\Debug\Zarva.pdb

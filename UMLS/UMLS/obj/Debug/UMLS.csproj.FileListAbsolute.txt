@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\UMLS\UMLS\obj\Debug\UMLS.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\UMLS\UMLS\obj\Debug\UMLS.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\UMLS\UMLS\bin\Debug\UMLS.exe.config
+C:\Users\myPC\source\repos\UMLS\UMLS\bin\Debug\UMLS.exe
+C:\Users\myPC\source\repos\UMLS\UMLS\bin\Debug\UMLS.pdb
+C:\Users\myPC\source\repos\UMLS\UMLS\obj\Debug\UMLS.exe
+C:\Users\myPC\source\repos\UMLS\UMLS\obj\Debug\UMLS.pdb

@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\bin\Debug\AverageMedian.exe.config
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\bin\Debug\AverageMedian.exe
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\bin\Debug\AverageMedian.pdb
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\obj\Debug\AverageMedian.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\obj\Debug\AverageMedian.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\obj\Debug\AverageMedian.exe
+C:\Users\myPC\source\repos\AverageMedian\AverageMedian\obj\Debug\AverageMedian.pdb

@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\bin\Debug\ArrayArrangement.exe.config
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\bin\Debug\ArrayArrangement.exe
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\bin\Debug\ArrayArrangement.pdb
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\obj\Debug\ArrayArrangement.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\obj\Debug\ArrayArrangement.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\obj\Debug\ArrayArrangement.exe
+C:\Users\myPC\source\repos\ArrayArrangement\ArrayArrangement\obj\Debug\ArrayArrangement.pdb

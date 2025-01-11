@@ -1,0 +1,10 @@
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\obj\Debug\NodeRecoveryWithRobots.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\obj\Debug\NodeRecoveryWithRobots.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\bin\Debug\NodeRecoveryWithRobots.exe.config
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\bin\Debug\NodeRecoveryWithRobots.exe
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\bin\Debug\NodeRecoveryWithRobots.pdb
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\bin\Debug\System.ValueTuple.dll
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\bin\Debug\System.ValueTuple.xml
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\obj\Debug\NodeRecoveryWithRobots.csproj.CopyComplete
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\obj\Debug\NodeRecoveryWithRobots.exe
+C:\Users\myPC\source\repos\NodeRecoveryWithRobots\NodeRecoveryWithRobots\obj\Debug\NodeRecoveryWithRobots.pdb

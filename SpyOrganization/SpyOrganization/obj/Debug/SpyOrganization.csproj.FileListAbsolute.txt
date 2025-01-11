@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\bin\Debug\SpyOrganization.exe.config
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\bin\Debug\SpyOrganization.exe
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\bin\Debug\SpyOrganization.pdb
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\obj\Debug\SpyOrganization.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\obj\Debug\SpyOrganization.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\obj\Debug\SpyOrganization.exe
+C:\Users\myPC\source\repos\SpyOrganization\SpyOrganization\obj\Debug\SpyOrganization.pdb

@@ -1,0 +1,7 @@
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\bin\Debug\SumOfPrimeNumbers.exe.config
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\bin\Debug\SumOfPrimeNumbers.exe
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\bin\Debug\SumOfPrimeNumbers.pdb
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\obj\Debug\SumOfPrimeNumbers.csprojAssemblyReference.cache
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\obj\Debug\SumOfPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\obj\Debug\SumOfPrimeNumbers.exe
+C:\Users\myPC\source\repos\SumOfPrimeNumbers\SumOfPrimeNumbers\obj\Debug\SumOfPrimeNumbers.pdb
